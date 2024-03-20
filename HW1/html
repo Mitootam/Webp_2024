@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Webp2024 B1129055</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+	<div class="container">
+		<div class="hero">
+			<h1 class="name"><strong>My Website</strong></h1>
+			<span class="job-title">Min-Xiang Chen (陳民祥)</span>
+		</div>
+	</div>
+
+<!-- Skills and intrest section -->
+	<div class="container">
+
+		<div class="sections">
+			<h2 class="section-title">About me</h2>
+
+			<div class="list-card">
+				<span class="exp">School</span>
+				<div>
+					<h3>Chang Gung University</h3>
+				</div>
+			</div>
+			
+			<div class="list-card">
+				<span class="exp">Department</span>
+				<div>
+					<h3>CSIE</h3>
+				</div>
+			</div>	
+					
+			<div class="list-card">
+				<span class="exp">More</span>
+				<div>
+					<h3>這人很懶 什麼都沒寫</h3>
+				</div>
+			</div>
+
+
+		</div>
+		<div class="sections">
+				<h2 class="section-title">Contact me</h2>
+				
+				<div class="list-card">
+					<div>
+						<h3>Phone Number</h3>
+						<span>(886)-0912345678</span>
+					</div>
+				</div>	
+
+				<div class="list-card">
+					<div>
+						<h3>Email</h3>
+						<span>B1129055@cgu.edu.tw</span>
+					</div>
+				</div>		
+		</div>
+	</div>
+
+	<!-- Achievements -->
+
+	<div class="container cards">
+		<h2 class = "section-title">Achievements</h2>
+		<div class="card">
+			<div class="skill-level">
+				<h2>25</h2>
+				<span>%</span>
+			</div>
+
+			<div class="skill-meta">
+				<h3>C++從入門到入土</h3>
+			</div>
+		</div>
+
+			
+		<div class="card">
+			<div class="skill-level">
+				<h2>25</h2>
+				<span>%</span>
+			</div>
+
+			<div class="skill-meta">
+				<h3>MySQL 從刪庫到跑路</h3>
+			</div>
+		</div>
+
+			
+		<div class="card">
+			<div class="skill-level">
+				<h2>25</h2>
+				<span>%</span>
+			</div>
+
+			<div class="skill-meta">
+				<h3>思考人生</h3>
+			</div>
+		</div>
+
+
+		<div class="card">
+			<div class="skill-level">
+				<h2>25</h2>
+				<span>%</span>
+			</div>
+
+			<div class="skill-meta">
+				<h3>看破紅塵</h3>
+			</div>
+		</div>
+</body>
+</html>
