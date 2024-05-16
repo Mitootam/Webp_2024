@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import CGU_Login from './cgu_login';
+import CGU_Login from './cgu_login'
 
 function App() {
   return (
     <div className="App">
       <div>
-       { CGU_Login() }
+        { CGU_Login() }
       </div>
     </div>
   );
