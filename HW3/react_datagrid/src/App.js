@@ -1,12 +1,10 @@
 import './App.css';
-import Datagrid from './datagrid';
+import TouristAttractions from './TouristAttractions';
 
 function App() {
   return (
     <div className="App">
-      <div>
-       { Datagrid() }
-      </div>
+      <TouristAttractions />
     </div>
   );
 }
